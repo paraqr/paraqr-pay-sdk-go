@@ -1,0 +1,1 @@
+# paraqr-pay-sdk-go
